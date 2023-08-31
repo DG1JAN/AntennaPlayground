@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name "UniBalun")(type "KiCad")(uri "${KIPRJMOD}/UniBalun.kicad_sym")(options "")(descr ""))
-)
