@@ -1,5 +1,7 @@
-# CoaxBalun
+#CoaxBalun
 
-A smal and light 1:1 Balun-PCB with solder pads for coax Wire (without using a connector)
+Based on the UniBalun design you can find here a special version to build a BalUn (no UnUn) for an ultra light Dipol. The feedline (coax) can be solderd directly to the pcb to safe some weight.  
 
-Based on the UniBalun Project - designd for Amidon FT82-43 cores.
+![alt text](https://github.com/DG1JAN/UniBalun/blob/main/CoaxBalun/CoaxBalun_3D_Pic1.png)
+
+![alt text](https://github.com/DG1JAN/UniBalun/blob/main/CoaxBalun/CoaxBalUn_example.jpg)
