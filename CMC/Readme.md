@@ -10,4 +10,4 @@ BoM  / Material:
 
 
 
-![Pictures of the assembled PCB](https://github.com/DG1JAN/AntennaPlayground/new/main/CMC/CMC_Pic.jpg))
+![Pictures of the assembled PCB](https://github.com/DG1JAN/AntennaPlayground/new/main/CMC/CMC_pic.jpg)
