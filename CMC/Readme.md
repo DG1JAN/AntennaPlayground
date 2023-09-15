@@ -9,4 +9,6 @@ BoM  / Material:
 ![Pictures of the assembled PCB](https://github.com/DG1JAN/AntennaPlayground/blob/main/CMC/CMC_pic.jpg)
 
 
+Measured Common-mode rejection 
+
 ![Pictures of the assembled PCB](https://github.com/DG1JAN/AntennaPlayground/blob/main/CMC/CMC_S21.jpg)
